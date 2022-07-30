@@ -1,4 +1,4 @@
 # README
 
-Extensions for coding in PHP language,
+Extensions pack for coding in PHP language,
 
