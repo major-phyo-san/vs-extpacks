@@ -3,9 +3,9 @@
     "displayName": "PythonMLPack",
     "description": "Extensions for Python data science and machine learning",
     "publisher": "major-phyo-san",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "repository": {
-        "url": "https://github.com/major-phyo-san/pythonmlpack.vscpack"
+        "url": "https://github.com/major-phyo-san/vs-extpacks/pythonmlpack.vscpack"
     },
     "engines": {
         "vscode": "^1.66.0"
@@ -34,6 +34,8 @@
         "ms-toolsai.jupyter", 
         "ms-toolsai.jupyter-renderers", 
         "ms-toolsai.jupyter-keymap", 
+        "ms-toolsai.vscode-jupyter-cell-tags",
+        "ms-toolsai.vscode-jupyter-slideshow",
         "gsGupta.opencv-snippets", 
         "johnguo.simply-view-image-for-python-opencv-debugging"        
     ]

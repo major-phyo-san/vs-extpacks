@@ -3,9 +3,9 @@
     "displayName": "PHPLanguagePack",
     "description": "Extensions for coding in PHP language",
     "publisher": "major-phyo-san",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": {
-        "url": "https://github.com/major-phyo-san/phplangpack.vscpack"
+        "url": "https://github.com/major-phyo-san/vs-extpacks/phplangpack.vscpack"
     },
     "engines": {
         "vscode": "^1.69.0"
