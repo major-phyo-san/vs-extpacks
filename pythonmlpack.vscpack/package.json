@@ -3,7 +3,7 @@
     "displayName": "PythonMLPack",
     "description": "Extensions for Python data science and machine learning",
     "publisher": "major-phyo-san",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "repository": {
         "url": "https://github.com/major-phyo-san/vs-extpacks/pythonmlpack.vscpack"
     },
