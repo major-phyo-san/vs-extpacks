@@ -3,7 +3,7 @@
     "displayName": "PHPLanguagePack",
     "description": "Extensions for coding in PHP language",
     "publisher": "major-phyo-san",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "repository": {
         "url": "https://github.com/major-phyo-san/vs-extpacks/phplangpack.vscpack"
     },
@@ -14,7 +14,7 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "zobo.php-intellisense",
+        "DEVSENSE.composer-php-vscode",
         "bmewburn.vscode-intelephense-client",
         "vsc-snippets.vsc-php-snippets",
         "linyang95.php-symbols",
@@ -23,7 +23,6 @@
         "MehediDracula.php-namespace-resolver",
         "brapifra.phpserver",
         "rifi2k.format-html-in-php",
-        "junstyle.php-cs-fixer",
-        "DEVSENSE.phptools-vscode"        
+        "junstyle.php-cs-fixer"
     ]
 }
